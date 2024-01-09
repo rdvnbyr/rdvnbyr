@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **byrridvan@gmail.com**
 
-## My Skill Set  
+<h2>My Skill Set</h2>
 <table><tr><td valign="top" width="33%">
       <h3 align="center">Frontend</h3>       
       <div align="center">  
