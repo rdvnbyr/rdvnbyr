@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdvnbyr&" alt="rdvnbyr" /></p>
 
-<h2>Skill & Tools</h2>
+<h2>Skills & Tools</h2>
 <table><tr><td valign="top" width="33%">
       <h3 align="center">Frontend</h3>       
       <div align="center">  
