@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridvan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdvnbyr&label=Profile%20views&color=0e75b6&style=flat" alt="rdvnbyr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdvnbyr&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="rdvnbyr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdvnbyr" alt="rdvnbyr" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **byrridvan@gmail.com**
 
-<h2>My Skill Set</h2>
+<h2>Skill & Tools</h2>
 <table><tr><td valign="top" width="33%">
       <h3 align="center">Frontend</h3>       
       <div align="center">  
