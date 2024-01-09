@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rdvnbyr/rdvnbyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdvnbyr" alt="rdvnbyr" /></a> </p>
 
-- 💬 Ask me about **react,node,javascript,shopware6,typo3,docker**
+- 💬 Ask me about **react, typescript, node, javascript, shopware6, typo3, docker**
 
 - 📫 How to reach me **byrridvan@gmail.com**
 
