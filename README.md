@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **byrridvan@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdvnbyr&show_icons=true&locale=en&layout=compact" alt="rdvnbyr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdvnbyr&show_icons=true&locale=en" alt="rdvnbyr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdvnbyr&" alt="rdvnbyr" /></p>
 
 <h2>Skills & Tools</h2>
 <table><tr><td valign="top" width="33%">
